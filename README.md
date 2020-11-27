@@ -545,3 +545,36 @@ The Forking Workflow is fundamentally different than the other workflows. Instea
 https://www.atlassian.com/git/tutorials/comparing-workflows
 
 
+----
+
+# Practice Steps to take:
+
+* Create new repo and give it a name.
+>![Image](practiceScreenShots/Screenshot%202020-11-27%20at%205.00.48%20PM.png)
+
+>![Image](practiceScreenShots/Screenshot%202020-11-27%20at%205.01.08%20PM.png)
+
+* Go to your folder and create a new folder with the same name as of the repository.
+> ![Image](practiceScreenShots/Screenshot%202020-11-27%20at%205.05.01%20PM.png)
+
+* Right click on the folder and click on "Open Git Bash here".
+> ![Image](practiceScreenShots/Screenshot%202020-11-27%20at%205.05.25%20PM.png)
+
+* Run commands 
+```shell script
+echo "# demo-git-hub-repo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+```
+
+* You may get an error for username and email configuration if you have not done them already.
+Below screen shot will help you in configuring that.
+> ![Image](practiceScreenShots/Screenshot%202020-11-27%20at%205.14.18%20PM.png)
+
+> ![Image](practiceScreenShots/Screenshot%202020-11-27%20at%205.14.41%20PM.png)
+
+> ![Image](practiceScreenShots/Screenshot%202020-11-27%20at%205.15.02%20PM.png)
+
+> ![Image](practiceScreenShots/Screenshot%202020-11-27%20at%205.15.34%20PM.png)
+
