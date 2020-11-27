@@ -1,4 +1,4 @@
-# Types of Git Workflow
+# Types of Git Workflow 
 
 <img style="float: right;" src="git6.png">
 
