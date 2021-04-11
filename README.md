@@ -577,4 +577,14 @@ Below screen shot will help you in configuring that.
 > ![Image](practiceScreenShots/Screenshot%202020-11-27%20at%205.15.02%20PM.png)
 
 > ![Image](practiceScreenShots/Screenshot%202020-11-27%20at%205.15.34%20PM.png)
+ 
+
+### 
+1. Created a Repo
+2. Came to local machine
+3. Created a Project using Eclipse/Idea IntelliJ
+4. Open Git bash inside the project
+5. Run Command: git init (this will create a hidden folder with the name as .git
+6. Run command: git remote add origin <git url> (this connects ur folder to remote repo in gitHub)
+7. Test whether they are connected: git pull origin main
 
